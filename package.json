@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+//    "start": "npx server & npx json-server db.json -p 3000"
+  }
+}
